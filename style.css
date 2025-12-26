@@ -1,0 +1,30 @@
+.navigation li {
+    list-style: none;
+}
+
+img {
+    display: block;
+    width: 600px;
+    height: 550px;
+}
+
+h1, a {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.recipe-list, .ingredient-list {
+    background-color: aliceblue;
+}
+
+#attribution {
+    font-size: 10px;
+    width: 600px;
+    text-align: end;
+}
+
+h3 {
+    border: 5px groove aliceblue;
+    padding: 0 10px;
+}
